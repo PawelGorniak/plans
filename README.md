@@ -1,2 +1,2 @@
-# plans
-PLANS - just manage your goals and tasks!
+# plany
+PLANY - just manage your goals and tasks!

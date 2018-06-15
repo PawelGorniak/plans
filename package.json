@@ -1,0 +1,22 @@
+{
+  "name": "plany",
+  "version": "1.0.0",
+  "description": "PLANY - just manage your goals and tasks!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawelGorniak/plany.git"
+  },
+  "author": "PG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PawelGorniak/plany/issues"
+  },
+  "homepage": "https://github.com/PawelGorniak/plany#readme",
+  "dependencies": {
+    "normalize": "^0.3.1"
+  }
+}

@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	font-size: 62.5%;
+}
+body{
+	height:100vh;
+	background: url("../img/background-min.jpg");
+	background-size: cover;
+	font-family: 'Raleway', sans-serif;
+}
+
+form, ol {
+	background: rgba(0,0,0,0.5);
+	color: #fff;
+	font-size: 1.8rem;
+}
+
+.clearfix::after{
+	content: "";
+	clear:both;
+	display: table;
+}
+
+ol{	
+	margin: 5rem;
+	display: block;
+	float: left;
+
+}
+
+li{
+	padding: 1rem;
+
+}
+
+form{
+	display: inline-block;
+	float:left;
+	margin-left: 5rem;
+	padding:3rem 1rem;
+}
+input { margin-right: 2rem; }
